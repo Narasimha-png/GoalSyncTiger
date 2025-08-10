@@ -54,6 +54,8 @@ It’s an automated career growth assistant that integrates with platforms you a
 ---
 
 ## Screenshots
+**Payment Gateway**
+![paymentintergration](https://github.com/user-attachments/assets/c5d06aa0-4ae0-4ed0-91fa-bb33589fb842)
 
 **Dashboard**  
 ![Dashboard](https://github.com/user-attachments/assets/713ad8b6-4a76-4edd-927f-3d88e70b271e)
